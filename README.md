@@ -1,1 +1,2 @@
-# WiFi-deauthentication-
+# WiFi-deauthentication-  Hello everyone i am creating a project on Wifi- Deauthentication..
+WiFi deauthentication is a technique used in network security to disconnect devices from a Wi-Fi network by sending deauthentication frames. These frames force the targeted devices to reauthenticate, disrupting their connection to the network. While deauthentication itself is a legitimate network management tool, it can be misused for malicious purposes, such as unauthorized access or network attacks. It is important to use such techniques responsibly and within legal and ethical boundaries.
